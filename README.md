@@ -1,6 +1,8 @@
 # Starbucks Capstone Challenge
 ## Project Overview
 This project is the capestone for the data scientist nandegree from Udacity.  I choose to work on a data set that contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). 
+## Report link
+https://rami-z.github.io/Starbucks_Capstone_Challenge/Starbucks_Capstone_notebook.html
 ## Problem to solve 
 Ideally, I would like to know from the data which people are more likely to respond to offers. Maximum level of engagement is that people received the offer, viewed it and completed it. This will help to know who to target with what type of offer in Starbucks marketing efforts which subsequently improve sales. The expected solution is a model that predict the customer response to an offer. Responding to offer will be defined as either viewing or completing the offer. If the customer received the offer but did not view it or complete it, this will be considered as not responding
 ## Python Libraries used 
